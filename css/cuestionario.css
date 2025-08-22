@@ -1,0 +1,13 @@
+.inst{
+    display: flex;
+    margin: 100px 200px 100px 200px;
+    border: 1px solid black;
+    align-items: center;
+}
+#instrucciones{
+    text-align: center;
+}
+
+input #opcion{
+    display: block;
+}
